@@ -1,29 +1,11 @@
 # darkcrypto
 
-## Project setup
-```
-npm install
-```
+This is small crypto app. Built with Vue + Vuex
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Coin Vview
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<a href="http://tinypic.com?ref=r0zfgw" target="_blank"><img src="http://i66.tinypic.com/r0zfgw.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-### Run your tests
-```
-npm run test
-```
+# News view
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="http://tinypic.com?ref=zmcqkj" target="_blank"><img src="http://i64.tinypic.com/zmcqkj.png" border="0" alt="Image and video hosting by TinyPic"></a>
