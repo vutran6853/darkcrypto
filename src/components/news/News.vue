@@ -8,7 +8,6 @@
         <p>{{ value.body }}</p>
       </div>
     </div>
-    
   </div>
 </template>
 
@@ -55,11 +54,10 @@ export default {
 }
 
 .newList > div > p {
-  /* text-align: center; */
-  height: 20vh;
   display: grid;
   justify-items: center;
   align-content: center;
+  height: 20vh;
 }
 </style>
 

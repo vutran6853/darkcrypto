@@ -41,12 +41,9 @@ export default {
   margin: auto;
   width: 50vw;
   height: 5vh;
-  /* justify-content: left; */
 }
 
 .list > p {
-  /* margin: 10px; */
-  /* padding: 10px; */
   width: 100%;
   border: 1px solid lightcyan;
 }

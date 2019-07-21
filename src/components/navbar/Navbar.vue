@@ -21,7 +21,6 @@ export default {
 .nav {
   background-color: lavender;
   display: flex;
-  /* margin: auto; */
   height: 50px;
   justify-content: center;
   margin-bottom: 10px;
@@ -33,7 +32,6 @@ export default {
 }
 
 .nav > p > a {
-  /* background-color: green; */
   padding: 15px;
 }
 </style>
